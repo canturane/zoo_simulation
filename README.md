@@ -38,7 +38,6 @@ zoo_simulation/
 ├── utils/           # Yardımcı fonksiyonlar
 ├── visual/          # Pygame görsel bileşenleri
 ├── simulation/      # Simülasyon mantığı
-├── constants.py     # Tüm ayarlar ve parametreler
 ├── main.py          # Ana çalıştırma dosyası
 └── requirements.txt # Gerekli kütüphaneler
 ```
