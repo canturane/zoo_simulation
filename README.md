@@ -2,7 +2,7 @@
 
 Bu proje, 500x500 birimlik bir alanda yaşayan farklı türlerdeki hayvanlar ve bir avcının yer aldığı, zaman içinde hareket, üreme ve avlanma gibi davranışların simüle edildiği bir ekosistem simülasyonudur.
 
-## 🎯 Proje Özellikleri
+##  Proje Özellikleri
 
 - **79 birey** ile başlayan sistem
 - **1000 adım** boyunca ilerleyen simülasyon
@@ -10,7 +10,7 @@ Bu proje, 500x500 birimlik bir alanda yaşayan farklı türlerdeki hayvanlar ve 
 - **MVC benzeri** yapıyla organize edilmiş kod
 - **Türe özgü** davranış modelleri
 
-## 🔧 Algoritma Yaklaşımı
+##  Algoritma Yaklaşımı
 
 ### İlk Üretme
 Hayvanlar tanımlı tür, cinsiyet ve sayıda başlangıçta alana rastgele yerleştirilir.
@@ -30,7 +30,7 @@ Pygame ekranında harita (500x500) + bilgi paneli (200px) yer alır. Her hayvan 
 ### Step Takibi
 Sağ altta her adım için adım sayacı gösterilir.
 
-## 🏗️ Proje Yapısı
+## 🏗 Proje Yapısı
 
 ```
 zoo_simulation/
@@ -48,7 +48,7 @@ zoo_simulation/
 - **Sabitler:** Tüm ayarlar constants.py dosyasında merkezi olarak yönetilir
 - **Fonksiyonellik:** Hareket, avlanma, üreme ve sayım işlemleri ayrı fonksiyonlardadır
 
-## 🛠️ Çözülen Problemler
+## 🛠 Çözülen Problemler
 
 ### Aşırı Üreme Problemi
 Aynı bireyin bir adımda birden fazla çiftleşmesini engellemek için `ureyenler` seti kullanılmıştır.
@@ -59,7 +59,7 @@ Her tür için adım başına maksimum 3 yavru sınırı eklenerek kontrol sağl
 ### Ekran Taşma Sorunu
 Harita ile Pygame ekranı birebir olacak şekilde tasarlandı, bilgi paneli ayrı bir bölümdedir.
 
-## 📦 Kurulum
+##  Kurulum
 
 1. **Projeyi klonlayın:**
    ```bash
@@ -105,7 +105,7 @@ Simülasyon başlatıldıktan sonra:
 - Pygame
 - NumPy (isteğe bağlı)
 
-## 📸 Ekran Görüntüleri
+##  Ekran Görüntüleri
 
 ### 1
 
