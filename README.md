@@ -1,4 +1,4 @@
-# Hayvanat Bahçesi Simülasyonu
+# Hayvanat Bahçesi Simülasyonu(TASK)
 
 Bu proje, 500x500 birimlik bir alanda yaşayan farklı türlerdeki hayvanlar ve bir avcının yer aldığı, zaman içinde hareket, üreme ve avlanma gibi davranışların simüle edildiği bir ekosistem simülasyonudur.
 
