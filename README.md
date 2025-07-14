@@ -7,7 +7,6 @@ Bu proje, 500x500 birimlik bir alanda yaşayan farklı türlerdeki hayvanlar ve 
 - **79 birey** ile başlayan sistem
 - **1000 adım** boyunca ilerleyen simülasyon
 - **Pygame** ile gerçek zamanlı görsel sunum
-- **MVC benzeri** yapıyla organize edilmiş kod
 - **Türe özgü** davranış modelleri
 
 ##  Algoritma Yaklaşımı
