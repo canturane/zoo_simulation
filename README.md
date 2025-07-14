@@ -30,7 +30,7 @@ Pygame ekranında harita (500x500) + bilgi paneli (200px) yer alır. Her hayvan 
 ### Step Takibi
 Sağ altta her adım için adım sayacı gösterilir.
 
-## 🏗 Proje Yapısı
+##  Proje Yapısı
 
 ```
 zoo_simulation/
@@ -48,7 +48,7 @@ zoo_simulation/
 - **Sabitler:** Tüm ayarlar constants.py dosyasında merkezi olarak yönetilir
 - **Fonksiyonellik:** Hareket, avlanma, üreme ve sayım işlemleri ayrı fonksiyonlardadır
 
-## 🛠 Çözülen Problemler
+##  Çözülen Problemler
 
 ### Aşırı Üreme Problemi
 Aynı bireyin bir adımda birden fazla çiftleşmesini engellemek için `ureyenler` seti kullanılmıştır.
