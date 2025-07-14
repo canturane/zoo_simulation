@@ -48,7 +48,7 @@ zoo_simulation/
 - **Sabitler:** Tüm ayarlar constants.py dosyasında merkezi olarak yönetilir
 - **Fonksiyonellik:** Hareket, avlanma, üreme ve sayım işlemleri ayrı fonksiyonlardadır
 
-##  Çözülen Problemler
+##  Problemler
 
 ### Aşırı Üreme Problemi
 Aynı bireyin bir adımda birden fazla çiftleşmesini engellemek için `ureyenler` seti kullanılmıştır.
